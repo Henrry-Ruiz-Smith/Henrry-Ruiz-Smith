@@ -2,8 +2,6 @@
 
 <img width="100%" alt="Encabezado Henrry Ruiz Smith - Data, Processes & Automation" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:155E75,100:6D28D9&height=180&section=header&text=Henrry%20Ruiz%20Smith&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20%7C%20PROCESSES%20%7C%20AUTOMATION&descAlignY=62&descSize=16&animation=fadeIn" />
 
-<img src="./assets/profile-portrait.jpg" alt="Retrato profesional de Henrry Ruiz Smith" width="158" />
-
 <h1>Analista de Procesos y Bases de Datos</h1>
 
 <strong>SQL & Python Automation · Lima, Perú</strong>
