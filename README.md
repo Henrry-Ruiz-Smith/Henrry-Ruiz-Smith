@@ -1,144 +1,125 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:7C3AED&height=230&section=header&text=Henrry%20Ruiz%20Smith&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Data%20%7C%20Processes%20%7C%20Automation&descAlignY=60&descSize=19&animation=fadeIn"/>
+<img width="100%" alt="Encabezado Henrry Ruiz Smith - Data, Processes & Automation" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:155E75,100:6D28D9&height=180&section=header&text=Henrry%20Ruiz%20Smith&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20%7C%20PROCESSES%20%7C%20AUTOMATION&descAlignY=62&descSize=16&animation=fadeIn" />
 
-<a href="https://github.com/Henrry-Ruiz-Smith">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=38BDF8&center=true&vCenter=true&width=850&lines=Analista+de+Procesos+y+Bases+de+Datos;Oracle+%7C+SQL+Server+%7C+PostgreSQL;Automatizacion+de+Procesos+con+Python;Backend+Java+%7C+Spring+Boot;Transformando+datos+en+soluciones" alt="Presentación profesional animada"/>
+<img src="./assets/profile-portrait.jpg" alt="Retrato profesional de Henrry Ruiz Smith" width="158" />
+
+<h1>Analista de Procesos y Bases de Datos</h1>
+
+<strong>SQL & Python Automation · Lima, Perú</strong>
+
+<br /><br />
+
+<a href="https://readme-typing-svg.demolab.com/">
+  <img alt="Especialidades técnicas" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=740&height=42&lines=Oracle+%7C+SQL+Server+%7C+PostgreSQL;Automatizacion+de+procesos+con+Python;Datos+confiables.+Procesos+eficientes." />
 </a>
 
-<br/>
+<br />
 
-![Data Engineering](https://img.shields.io/badge/DATA-ENGINEERING-06B6D4?style=for-the-badge&labelColor=0F172A)
-![Process Analysis](https://img.shields.io/badge/PROCESS-ANALYSIS-8B5CF6?style=for-the-badge&labelColor=0F172A)
-![Automation](https://img.shields.io/badge/PYTHON-AUTOMATION-10B981?style=for-the-badge&labelColor=0F172A)
-
-</div>
-
----
-
-## Sobre mí
-
-Soy **Henrry Ruiz Smith**, analista de procesos y bases de datos, con un enfoque profesional en el análisis, optimización y automatización de operaciones.
-
-Me apasiona encontrar oportunidades de mejora a través de los datos, transformar procedimientos manuales en soluciones automatizadas y desarrollar herramientas que faciliten el trabajo de las organizaciones.
-
-Mi especialidad está en el ecosistema SQL, principalmente **Oracle, SQL Server y PostgreSQL**, complementado con **Python** para construir automatizaciones y soluciones de procesamiento de información.
-
-También trabajo con tecnologías de desarrollo backend y aplicaciones, como Java, Spring Boot, Flutter y Dart.
-
-> **Mi enfoque:** entender el proceso, estructurar los datos, automatizar la operación y convertir la información en valor para el negocio.
-
----
-
-## Mis áreas de especialización
-
-| Área | Enfoque profesional |
-|:---|:---|
-| **Bases de datos** | Consultas SQL, modelado, relaciones, análisis y optimización. |
-| **Análisis de procesos** | Evaluación de flujos operativos, identificación de problemas y oportunidades de mejora. |
-| **Automatización** | Desarrollo de soluciones con Python para reducir tareas repetitivas y mejorar la eficiencia. |
-| **Integración de datos** | Transformación, validación y procesamiento de información entre sistemas. |
-| **Desarrollo backend** | Construcción de lógica de negocio, servicios y APIs con Java y Spring Boot. |
-| **Visualización** | Preparación de información para reportes, indicadores y seguimiento operativo. |
-
----
-
-## Tecnologías y herramientas
-
-### Bases de datos | Mi especialidad principal
-
-<div align="center">
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-### Automatización y procesamiento de datos
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0F766E?style=for-the-badge&logo=databricks&logoColor=white)
-
-</div>
-
-### Backend y desarrollo de aplicaciones
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-</div>
-
-### Control de versiones
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<a href="#-proyecto-destacado"><img alt="Ver proyecto" src="https://img.shields.io/badge/VER_PROYECTO_DESTACADO-HotelDB-0891B2?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://henrry-ruiz-smith.github.io/HotelDB/"><img alt="Ver dashboard" src="https://img.shields.io/badge/DASHBOARD-EN_VIVO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## Mi enfoque de trabajo
+## 👋 Sobre mí
 
-```mermaid
-flowchart LR
-    A["Análisis del proceso"] --> B["Diseño de datos"]
-    B --> C["Implementación SQL"]
-    C --> D["Automatización Python"]
-    D --> E["Validación y control"]
-    E --> F["Mejora continua"]
+Soy **Henrry Ruiz Smith**, analista de procesos y bases de datos, con experiencia práctica en análisis de información, mejora de operaciones y automatización de tareas empresariales. Estudio **Ingeniería de Sistemas**.
 
-    style A fill:#0F172A,color:#fff,stroke:#38BDF8
-    style B fill:#164E63,color:#fff,stroke:#38BDF8
-    style C fill:#155E75,color:#fff,stroke:#38BDF8
-    style D fill:#0F766E,color:#fff,stroke:#34D399
-    style E fill:#115E59,color:#fff,stroke:#34D399
-    style F fill:#4C1D95,color:#fff,stroke:#A78BFA
-```
+Mi especialidad es convertir problemas operativos en soluciones basadas en datos:
 
-Busco desarrollar soluciones que no solamente funcionen técnicamente, sino que también contribuyan a mejorar los procesos donde se implementan.
+- **Bases de datos:** diseño relacional, consultas, validaciones y optimización con Oracle, Microsoft SQL Server y PostgreSQL.
+- **Análisis de procesos:** identificación de cuellos de botella, definición de controles y propuestas de mejora.
+- **Automatización:** desarrollo de herramientas en Python para reducir trabajo manual y mejorar trazabilidad.
+- **Desarrollo complementario:** backend con Java y Spring Boot; aplicaciones con Flutter y Dart.
 
----
+> **Cómo trabajo:** comprender el proceso → modelar la información → implementar → automatizar → validar → mejorar.
 
-## Proyectos destacados
+**In English:** Process & Database Analyst focused on SQL, business process improvement, and Python automation. I build data-driven solutions and practical tools for business operations.
 
-### HotelDB | Bases de datos y análisis
+## 🧰 Stack tecnológico
 
-Proyecto de portafolio orientado al trabajo con bases de datos y su aplicación en soluciones de análisis de información.
+### Especialidad principal · Bases de datos
 
-[![HotelDB](https://img.shields.io/badge/EXPLORAR_PROYECTO-HotelDB-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Henrry-Ruiz-Smith/HotelDB)
+<p>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQL-0F766E?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+</p>
 
----
+### Automatización y análisis
 
-## Lo que me interesa construir
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" alt="Power BI" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-- **Bases de datos sólidas:** estructuras organizadas, consultas eficientes y calidad de información.
-- **Operaciones automatizadas:** procesos que reduzcan la intervención manual y permitan mayor trazabilidad.
-- **Soluciones de análisis:** información útil para interpretar resultados y apoyar decisiones.
-- **Herramientas empresariales:** aplicaciones y servicios que resuelvan necesidades operativas reales.
-- **Procesos escalables:** soluciones mantenibles, documentadas y preparadas para evolucionar.
+### Desarrollo complementario
 
----
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
 
-## Conectemos
+## ⭐ Proyecto destacado
 
-Me interesa compartir proyectos, intercambiar conocimientos y colaborar en iniciativas relacionadas con bases de datos, análisis de procesos, automatización y desarrollo de software.
+### [HotelDB — Analítica hotelera con SQL Server y Power BI](https://github.com/Henrry-Ruiz-Smith/HotelDB)
+
+<a href="https://henrry-ruiz-smith.github.io/HotelDB/">
+  <img src="https://raw.githubusercontent.com/Henrry-Ruiz-Smith/HotelDB/main/dashboard/preview.svg" alt="Vista previa del dashboard ejecutivo de HotelDB" width="100%" />
+</a>
+
+**Problema que aborda:** organizar y analizar información operativa hotelera para producir indicadores de ingresos, satisfacción y comportamiento de clientes.
+
+| Datos y entregables | Alcance documentado |
+|:--|:--|
+| Motor | **SQL Server** con modelo relacional de **13 tablas** |
+| Datos demostrativos | **1.000 estancias** (conjunto de ejemplo, año 2022) |
+| Análisis SQL | **5 consultas de negocio**, vistas y controles de calidad |
+| Visualización | **Power BI** y **dashboard web interactivo** |
+| Calidad | Validaciones SQL y pruebas estáticas ejecutadas con Python |
+
+<a href="https://henrry-ruiz-smith.github.io/HotelDB/"><img src="https://img.shields.io/badge/ABRIR_DASHBOARD-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir dashboard" /></a>
+<a href="https://github.com/Henrry-Ruiz-Smith/HotelDB"><img src="https://img.shields.io/badge/VER_CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" /></a>
+<a href="https://github.com/Henrry-Ruiz-Smith/HotelDB/blob/main/docs/MODELO_Y_KPIS.md"><img src="https://img.shields.io/badge/MODELO_Y_KPIS-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Modelo y KPIs" /></a>
+
+<sub>HotelDB es una demostración con datos ficticios/históricos, no un sistema transaccional de producción. Las cifras no representan resultados empresariales reales.</sub>
+
+## 🔎 Enfoque profesional
+
+| Etapa | Qué busco resolver | Resultado esperado |
+|:--|:--|:--|
+| **01 · Diagnóstico** | Entender el flujo actual, sus limitaciones y sus datos | Requisitos y oportunidades de mejora |
+| **02 · Modelado** | Definir entidades, reglas, relaciones y calidad | Información consistente |
+| **03 · Implementación** | Construir consultas, controles y servicios | Solución reproducible |
+| **04 · Automatización** | Eliminar tareas repetitivas y tratar excepciones | Menos intervención manual |
+| **05 · Seguimiento** | Medir resultados y mejorar el proceso | Visibilidad y trazabilidad |
+
+## 🧭 Próximas líneas de portafolio
+
+Las siguientes son **áreas de proyectos que me interesa desarrollar**, no repositorios publicados:
+
+- **SQL Performance Lab:** planes de ejecución, índices y comparación de consultas en Oracle, SQL Server y PostgreSQL.
+- **OpsFlow Automation:** automatización empresarial con Python, PostgreSQL y registros de auditoría.
+- **DataPipeline ETL:** cargas incrementales, reglas de calidad y procesamiento de datos.
+- **Process Intelligence:** indicadores operativos, SLA y análisis de cuellos de botella.
+
+## 🤝 Contacto y colaboración
+
+Estoy interesado en iniciativas de **bases de datos, automatización, análisis de procesos e integración de información**, así como en compartir aprendizajes y proyectos de ingeniería aplicada.
+
+<a href="https://github.com/Henrry-Ruiz-Smith"><img src="https://img.shields.io/badge/GitHub-Henrry--Ruiz--Smith-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Henrry Ruiz Smith" /></a>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/MI_PERFIL-GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Henrry-Ruiz-Smith)
+**Datos bien estructurados. Procesos eficientes. Soluciones con propósito.**
 
-**Datos bien estructurados. Procesos eficientes. Soluciones que aportan valor.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:7C3AED&height=110&section=footer"/>
+<img width="100%" alt="Cierre decorativo" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:155E75,100:6D28D9&height=95&section=footer" />
 
 </div>
